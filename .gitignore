@@ -1,0 +1,20 @@
+# API Keys and secrets - NEVER commit these
+gemini-keys.json
+*.key
+*.pem
+.env
+.env.*
+
+# Logs
+*.log
+key-changes.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
